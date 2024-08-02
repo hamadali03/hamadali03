@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamad</h1>
-<h3 align="center">I passionate Web-Developer Engineer from Pakistan</h3>
+<h3 align="center">I am a passionate Web-Developer Engineer from Pakistan, working on MERN now. Feel free to reach out for any Project</h3>
 
 - 👯 I’m looking to collaborate on **MERN Project**
 
